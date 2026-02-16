@@ -1,10 +1,12 @@
-# Project Title
+# AI Chatbot
 
-Simple overview of use/purpose.
+Create a AI chatbot to give help
+
+Author: https://github.com/Jason-duck
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This Chatbot will able to help you with questions. If i ask it a simple questions like how to solve 3+3, the AI Chatbot wouldn't tell me the answer straight away, it'll help me find the answer and help me learn what to do once asked. This AI Chatbot is NOT designed to give you straight answers, but to help you improve on coding skills by explaining how, and what to do.
 
 ## Getting Started
 
@@ -50,7 +52,7 @@ ex. [@benpaddlejones](https://github.com/benpaddlejones)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the GNU GPL v3.0 License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
